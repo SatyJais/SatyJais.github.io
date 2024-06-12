@@ -3,5 +3,10 @@
 
 
 ``` html
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7bc7d5ed-3638-45c1-9cc2-c8376850a1d0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div
+data-iframe-width="150" data-iframe-height="270"
+data-share-badge-id="7bc7d5ed-3638-45c1-9cc2-c8376850a1d0"
+data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
+</script>
 ```
