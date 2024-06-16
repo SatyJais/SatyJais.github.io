@@ -1,5 +1,5 @@
 title: Satyarth Jaiswal
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 navigation:
 - text: Home
   url: index.html
