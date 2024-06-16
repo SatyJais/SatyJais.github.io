@@ -1,5 +1,4 @@
-# Satyarth Jaiswal
-## Data Science Portfolio
+# Data Science Portfolio
 
 
 ![html code](test.html)
