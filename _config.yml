@@ -1,11 +1,2 @@
 title: Satyarth Jaiswal
 theme: jekyll-theme-minimal
-navigation:
-- text: Home
-  url: index.html
-- text: About
-  url: about.html
-- text: Blog
-  url: blog.html
-- text: Portfolio
-  url: portfolio.html
