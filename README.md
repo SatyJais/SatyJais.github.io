@@ -8,4 +8,5 @@
 
 
 ## Projects
+### Streamline data from multiple source, maintaining a single source of truth for advertising campaigns with a live dashboard allowing access control
 ### Predicting Employee Attribution using ML (Classification) Techniques (Python)
