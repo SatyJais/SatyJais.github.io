@@ -1,6 +1,7 @@
  # Data Analytics Portfolio
 
-#### Technical Skills: Python, SQL, BigQuery, Jupyter Notebook, Spreadsheets, Tableau, Quicksight, Google Cloud Platform, Power BI, DAX, Microsoft Excel.
+## Technical Skills: 
+PowerBI, Python, SQL, BigQuery, Jupyter Notebook, Spreadsheets, Tableau, Quicksight, Google Cloud Data Platform, DAX, Microsoft Excel.
 
 ## Certifications
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300) (_Apr 2025_) [Verify](https://learn.microsoft.com/api/credentials/share/en-in/SatyarthJaiswal-3910/606A5468779FA8D7?sharingId=E6A9BE87CB51B906)
