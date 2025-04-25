@@ -11,5 +11,6 @@
 
 
 ## Projects
-### Streamline data sources, maintaining a single source of truth for advertising campaign analysis with a live dashboard allowing access control
+#### [ETL and a Live Dashboard for digital campaign analsys](https://satyjais.github.io/DigitalAdvertising_Pipeline_ETL)
+- Streamline data sources, maintaining a single source of truth for advertising campaign analysis with a live dashboard, allowing access control and minimising errors.
 ### Predicting Employee Attribution using ML (Classification) Techniques (Python)
