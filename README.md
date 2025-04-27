@@ -16,8 +16,10 @@ PowerBI, Python, SQL, BigQuery, Jupyter Notebook, Spreadsheets, Tableau, Quicksi
 ## Projects
 #### [ETL and a Live Dashboard for digital campaign analysis](https://satyjais.github.io/DigitalAdvertising_Pipeline_ETL)
 - Streamline data sources, maintaining a single source of truth for advertising campaign analysis with a live dashboard, allowing access control and minimising errors.
+- **Tools & Skills involved** - SQL, Google Spreadsheets, Excel, BigQuery, Google Data Cloud
 
 #### [GoogleAds_Dashboard for Click Attrbution](https://satyjais.github.io/GoogleAds_Data_Dashboard/)
-- Guiding the client in setting up a Google Ads dashboard focused on pre-lead performance indicators such as spend, CTR, CPC, and CPL. These metrics were to be broken down by device type, ad type, gender, and age group. The objective was not just to track pre-lead trends, but also to establish a clear connection between ad spend, individual keywords & clicks and lead generation & quality.
+- Guiding the client in setting up a Google Ads dashboard focused on pre-lead performance indicators such as spend, CTR, CPC, and CPL. These metrics were broken down by device type, ad type, gender, and age group. The objective was to track pre-lead trends and establish a clear connection between ad spend, individual keywords & clicks and lead generation & quality.
+- **Tools & Skills involved** - SQL, Looker Studio, Looker, Excel, BigQuery, Google Data Cloud
 
 
