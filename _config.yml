@@ -3,11 +3,11 @@ logo: /assets/circular_headshot (2).png
 description: About me - Hi, I'm Satyarth — a data analyst passionate about solving business problems with analytics, visualization, and storytelling."
 theme: jekyll-theme-minimal
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Satyarth Jaiswal"
+  avatar           : "/assets/circular_headshot (2).png"
+  bio              : "I'm Satyarth — a data analyst passionate about solving business problems with analytics, visualization, and storytelling"
+  location         : "Canada"
+  email            : "jaiswal.satyarth070@gmail.com"
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
