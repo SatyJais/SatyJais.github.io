@@ -1,5 +1,3 @@
- # Data Analytics Portfolio
-
 ## Technical Skills: 
 PowerBI, Python, SQL, BigQuery, Jupyter Notebook, Spreadsheets, Tableau, Quicksight, Google Cloud Data Platform, DAX, Microsoft Excel.
 
