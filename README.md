@@ -1,7 +1,7 @@
 #### Data Analytics Portfolio
 
 ## Technical Skills: 
-PowerBI, Python, SQL, BigQuery, Jupyter Notebook, Spreadsheets, Tableau, Quicksight, Google Cloud Data Platform, DAX, Microsoft Excel.
+PowerBI, Python, SQL, BigQuery, Looker Studio, Jupyter Notebook, Spreadsheets, Tableau, Quicksight, Google Cloud Data Platform, DAX, Microsoft Excel.
 
 ## Certifications
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300) (_Apr 2025_) [Verify](https://learn.microsoft.com/api/credentials/share/en-in/SatyarthJaiswal-3910/606A5468779FA8D7?sharingId=E6A9BE87CB51B906)
@@ -18,7 +18,7 @@ PowerBI, Python, SQL, BigQuery, Jupyter Notebook, Spreadsheets, Tableau, Quicksi
 - Streamline data sources, maintaining a single source of truth for advertising campaign analysis with a live dashboard, allowing access control and minimising errors.
 - **Tools & Skills involved** - SQL, Google Spreadsheets, Excel, BigQuery, Google Data Cloud, Google Ads
 
-#### [GoogleAds_Dashboard for Click Attrbution](https://satyjais.github.io/GoogleAds_Data_Dashboard/)
+#### [GoogleAds_Dashboard for Click Attrbution](https://satyjais.github.io/GoogleAds_CRMData_Dashboard/)
 - Guiding the client in setting up a Google Ads dashboard focused on pre-lead performance indicators such as spend, CTR, CPC, and CPL. These metrics were broken down by device type, ad type, gender, and age group. The objective was to track pre-lead trends and establish a clear connection between ad spend, individual keywords & clicks and lead generation & quality.
 - **Tools & Skills involved** - SQL, Looker Studio, Looker, Excel, BigQuery, Google Data Cloud, Google Ads
 
