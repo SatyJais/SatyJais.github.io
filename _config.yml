@@ -9,21 +9,14 @@ theme: jekyll-theme-minimal
 #remote_theme: mmistakes/minimal-mistakes
 #minimal_mistakes_skin: contrast
 
-author:
-  name     : Satyarth Jaiswal
-  avatar   : "/assets/circular_headshot (2).png"
-  bio      : I'm Satyarth — a data analyst passionate about solving business problems with analytics, visualization, and storytelling
-  location : Canada
-  email    : jaiswal.satyarth070@gmail.com
+#links:
+#  - label: Email
+#    icon: fas fa-fw fa-envelope-square
+#    url: mailto:jaiswal.satyarth070@gmail.com
+# - label: LinkedIn
+#    icon: fab fa-fw fa-linkedin-square
+#    url: https://www.linkedin.com/in/satyarthj/
 
-links:
-  - label: Email
-    icon: fas fa-fw fa-envelope-square
-    url: mailto:jaiswal.satyarth070@gmail.com
-  - label: LinkedIn
-    icon: fab fa-fw fa-linkedin-square
-    url: https://www.linkedin.com/in/satyarthj/
-
-google_analytics: G-RVVCTXZ7MN
-header:
-  nav: []
+#google_analytics: G-RVVCTXZ7MN
+#header:
+#  nav: []
