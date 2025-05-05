@@ -25,3 +25,5 @@ links:
     url: https://www.linkedin.com/in/satyarthj/
 
 google_analytics: G-RVVCTXZ7MN
+header:
+  nav: false
