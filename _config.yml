@@ -8,10 +8,9 @@ description: >-
 theme: jekyll-theme-minimal
 # theme: minimal-mistakes-jekyll
 #plugins:
-  - jekyll-include-cache
+#  - jekyll-include-cache
 #remote_theme: mmistakes/minimal-mistakes
 #minimal_mistakes_skin: contrast
-
 #links:
 #  - label: Email
 #    icon: fas fa-fw fa-envelope-square
@@ -19,7 +18,6 @@ theme: jekyll-theme-minimal
 # - label: LinkedIn
 #    icon: fab fa-fw fa-linkedin-square
 #    url: https://www.linkedin.com/in/satyarthj/
-
 #google_analytics: G-RVVCTXZ7MN
 #header:
 #  nav: []
