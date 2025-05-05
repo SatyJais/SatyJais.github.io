@@ -15,7 +15,7 @@ author:
   location         : Canada
   email            : jaiswal.satyarth070@gmail.com
 links:
-    - label: Email"
+    - label: Email
       icon: fas fa-fw fa-envelope-square
       url: mailto:jaiswal.satyarth070@gmail.com
     - label: LinkedIn
@@ -24,8 +24,5 @@ links:
       url: https://www.linkedin.com/in/satyarthj/
 
 # Analytics
-analytics:
-  provider               : google
-  google:
-    tracking_id          : G-RVVCTXZ7MN
-    anonymize_ip         : # true, false (default)
+
+  google_analytics: G-RVVCTXZ7MN
