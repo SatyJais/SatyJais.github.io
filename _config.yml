@@ -6,7 +6,7 @@ description: About me - Hi, I'm Satyarth — a data and marketing professional, 
 plugins:
   - jekyll-include-cache
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: contrast
 
 author:
   name             : Satyarth Jaiswal
@@ -23,3 +23,9 @@ links:
       icon: fab fa-fw fa-linkedin-square
       url: https://www.linkedin.com/in/satyarthj/
 
+# Analytics
+analytics:
+  provider               : google
+  google:
+    tracking_id          : G-RVVCTXZ7MN
+    anonymize_ip         : # true, false (default)
