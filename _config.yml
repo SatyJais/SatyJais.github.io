@@ -1,7 +1,11 @@
 title: Satyarth Jaiswal
 logo: /assets/circular_headshot (2).png
 description: About me - Hi, I'm Satyarth — a data and marketing professional, passionate about solving business problems with data governance, analytics, visualisation, and storytelling.
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "aqua"
+
 author:
   name             : "Satyarth Jaiswal"
   avatar           : "/assets/circular_headshot (2).png"
@@ -16,3 +20,4 @@ links:
       icon: "fas fa-fw fa-link"
       icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/satyarthj/"
+
