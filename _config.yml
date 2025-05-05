@@ -2,7 +2,7 @@ title: Satyarth Jaiswal
 logo: /assets/circular_headshot (2).png
 description: About me - Hi, I'm Satyarth — a data and marketing professional, passionate about solving business problems with data governance, analytics, visualisation, and storytelling.
 # theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: aqua
 
