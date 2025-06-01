@@ -15,7 +15,7 @@ PowerBI, Python, SQL, BigQuery, Looker Studio, Jupyter Notebook, Spreadsheets, T
 
 ## Projects
 #### [ETL and a Live Dashboard for digital campaign analysis](https://satyjais.github.io/DigitalAdvertising_Pipeline_ETL)
-- Streamline data sources, maintaining a single source of truth for advertising campaign analysis with a live dashboard, allowing access control and minimising errors.
+- Designed and automated an ETL pipeline in BigQuery to unify and clean CRM lead data across recurring sheets, reducing reporting errors by 25%, saving ~40 hrs monthly and enabling dynamic campaign attribution. This helps streamline data sources and maintain a single source of truth for advertising campaign analysis with a live dashboard, allowing access control and minimising errors. 
 - **Tools & Skills involved** - SQL, Google Spreadsheets, Excel, BigQuery, Google Data Cloud, Google Ads
 
 #### [GoogleAds_Dashboard for Click Attrbution](https://satyjais.github.io/GoogleAds_CRMData_Dashboard/)
